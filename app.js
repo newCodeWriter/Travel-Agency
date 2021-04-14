@@ -16,7 +16,7 @@ const checkoutPayment = require("./routes/payment");
 const itineraryRouter = require("./routes/itinerary");
 const trim = require("./middleware/trim");
 
-//Added mongoose to help connect with our Mongodb database
+//connect to Mongodb database
 const mongoose = require("mongoose");
 
 const { json, urlencoded } = express;
@@ -57,18 +57,20 @@ app.use(function (err, req, res, next) {
 	res.locals.message = err.message;
 	res.locals.error = req.app.get("env") === "development" ? err : {};
 
-	// render the error page
 	res.status(err.status || 500);
 	res.json({ error: err });
 });
 
-//The line below connects our node server with our mongo database
 const url = process.env.MONGO_URL;
 
 mongoose.connect(url, {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 	useCreateIndex: true,
+});
+
+app.listen(process.env.PORT || 3001, () => {
+	console.log(`Express SERVER listening on port ${process.env.PORT} `);
 });
 
 module.exports = app;
