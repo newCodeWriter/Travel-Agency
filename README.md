@@ -1,6 +1,6 @@
 # Travel Agency
 
-Contributed to a web application that uses a third party API to allow users to search and book flights, hotels and/or cars. 
+Contributed to a web application that uses a third party API that allows users to search and book flights, hotels and/or cars. 
 
 live version: https://agile-coast-19339.herokuapp.com/ <br/>
 original repository: https://github.com/hatchways/team-angelfish
