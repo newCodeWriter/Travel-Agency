@@ -1,4 +1,4 @@
-# Travel Agency
+# Travel Booking
 
 Contributed to a web application that uses a third party API that allows users to search and book flights, hotels and/or cars. 
 
