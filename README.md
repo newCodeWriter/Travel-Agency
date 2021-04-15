@@ -12,9 +12,11 @@ Built and designed by Marshay, [Ray](https://github.com/BoomBoomRay), [Sebastian
 # Preview/Demo
 
 <img width="1440" alt="Screen Shot 2021-04-14 at 6 39 37 PM" src="https://user-images.githubusercontent.com/65259996/114791690-e7667f80-9d54-11eb-893c-4f5c688bd428.png">
+
 <img width="501" alt="Screen Shot 2021-04-14 at 6 50 54 PM" src="https://user-images.githubusercontent.com/65259996/114791709-ef262400-9d54-11eb-8e43-c657d1aba8ff.png">
 
-![TravelBooking](https://user-images.githubusercontent.com/65259996/114796042-f271dd80-9d5d-11eb-9e4a-d6f9a250ab32.gif)
+![Traveled](https://user-images.githubusercontent.com/65259996/114809256-d418db80-9d77-11eb-88e7-cb02ca058212.gif)
+
 
 # Tech/Framework
 Our Stack: 
