@@ -5,11 +5,11 @@ Contributed to a web application that uses a third party API that allows users t
 live version: https://agile-coast-19339.herokuapp.com/ <br/>
 original repository: https://github.com/hatchways/team-angelfish
 
-# Contributors
+## Contributors
 
 Built and designed by Marshay, [Ray](https://github.com/BoomBoomRay), [Sebastian](https://github.com/gbudjeakp) and [Tojonirina](https://github.com/Tojonirina4)
 
-# Preview/Demo
+## Preview/Demo
 
 <img width="1440" alt="Screen Shot 2021-04-14 at 6 39 37 PM" src="https://user-images.githubusercontent.com/65259996/114791690-e7667f80-9d54-11eb-893c-4f5c688bd428.png">
 
@@ -18,7 +18,7 @@ Built and designed by Marshay, [Ray](https://github.com/BoomBoomRay), [Sebastian
 ![Traveled](https://user-images.githubusercontent.com/65259996/114809256-d418db80-9d77-11eb-88e7-cb02ca058212.gif)
 
 
-# Tech/Framework
+## Tech/Framework
 Our Stack: 
 
 React.js / Material UI <br/>
@@ -32,8 +32,8 @@ Twilio Sendgrid <br/>
 AWS <br/>
 Stripe
 
-# Getting started
-## Installations
+## Getting started
+### Installations
 
 1. Add API key dependencies to the project(see Adding API Key Dependencies below for instructions)
 2. cd to the client directory(front-end)
@@ -44,7 +44,7 @@ Stripe
 7. run 'npm run dev' to start the server
 8. server will run at http://localhost:3001
 
-### Adding API Key Dependencies
+#### Adding API Key Dependencies
 
 This program requires the following API keys. These can be obtained here (follow the instructions on the website links):
 
@@ -52,8 +52,8 @@ This program requires the following API keys. These can be obtained here (follow
 - [Twilio Sengrid API](https://sendgrid.com/docs/for-developers/sending-email/api-getting-started/)
 - [AWS](https://docs.aws.amazon.com/index.html)
 
-# Features
-## Feature Overview
+## Features
+### Feature Overview
 
 - Save favorite destinations
 - Flight search and price sorting functionality
